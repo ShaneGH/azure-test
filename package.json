@@ -1,0 +1,19 @@
+{
+  "name": "azure-test",
+  "version": "1.0.0",
+  "description": "Test website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaneGH/azure-test.git"
+  },
+  "author": "Shane Connon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaneGH/azure-test/issues"
+  },
+  "homepage": "https://github.com/ShaneGH/azure-test#readme"
+}
